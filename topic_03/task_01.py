@@ -46,3 +46,4 @@ while True:
             print("Результат:", multi(a, b))
         case "/":
             print("Результат:", dilenya(a, b))
+
